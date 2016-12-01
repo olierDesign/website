@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "description": "Front end configuration file",
+  "main": "",
+  "authors": [
+    "Olivia"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
